@@ -1,7 +1,7 @@
 /*
  * @Author: shihong.lei@advance.ai
  * @Date: 2019-07-24 16:47:06
- * @Last Modified by: shihong.lei@advance.ai
+ * @Last Modified by: shihong.lei
  * @Last Modified time: 2019-08-26 11:20:04
  */
 import axios from 'axios';
