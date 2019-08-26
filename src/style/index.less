@@ -1,0 +1,27 @@
+@import './loading.less';
+@import '../theme/default.less';
+body,
+html,
+#root {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  width: 100%;
+  background: #f5f7f9;
+  min-width: 1440px;
+}
+.ant-search-form/deep/ {
+  .ant-form-item {
+    display: flex;
+    margin-bottom: 10px;
+    .ant-form-item-label {
+      width: 80px;
+    }
+    .ant-form-item-control-wrapper {
+      flex: 1;
+    }
+  }
+}

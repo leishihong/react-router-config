@@ -1,0 +1,10 @@
+export { default as BaseModal } from './BaseModal'
+export { default as BasePageHeader } from './BasePageHeader'
+export { default as BaseTable } from './BaseTable'
+export { default as BaseEditor } from './BaseEditor'
+export { default as BaseMenu } from './BaseMenu'
+export { default as BaseLoading } from './BaseLoading'
+export { default as BaseBreadcrumb } from './BaseBreadcrumb'
+export { default as BaseSearch } from './BaseSearch'
+export { default as BaseContext } from './BaseContext'
+// export { default as BaseWrapAuth } from './BaseWrapAuth' // 高阶组件之经典应用：权限控制
