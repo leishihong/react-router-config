@@ -145,7 +145,7 @@
     "history": "^4.9.0",
     "http-proxy-middleware": "^0.19.1",
     "husky": "^3.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "js-cookie": "^2.2.0",
     "jsonp": "^0.2.1",
     "less": "2.7.3",
